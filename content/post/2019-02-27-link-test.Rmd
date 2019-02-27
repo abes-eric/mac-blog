@@ -1,0 +1,11 @@
+---
+title: Link test
+author: Eric
+date: '2019-02-27'
+slug: link-test
+categories: []
+tags: []
+---
+## link test
+
+[link](smb://ABES-TS220._smb._tcp.local/ABES Server/i.數位簽章/1.內部聯絡單/追蹤中/資材課-201710-02內部聯絡單-原30A 60V TO-220 Nihon Inter FCQ30A06 更換主料.pdf)
